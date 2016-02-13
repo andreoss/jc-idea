@@ -1,0 +1,201 @@
+<scheme name="jc" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="ide">Idea</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="7ba85c" />
+    <option name="DOCUMENTATION_COLOR" value="f7f7ea" />
+    <option name="GUTTER_BACKGROUND" value="ebebd5" />
+    <option name="INFORMATION_HINT" value="f7f7ea" />
+    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTION_BACKGROUND" value="ea47" />
+    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="ScrollBar.hoverThumbColor" value="" />
+    <option name="ScrollBar.thumbColor" value="" />
+    <option name="TEARLINE_COLOR" value="d0d0a0" />
+  </colors>
+  <attributes>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="BACKGROUND" value="d6d6a1" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="BACKGROUND" value="e0e0aa" />
+      </value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value />
+    </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value />
+    </option>
+    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_DOC_COMMENT">
+      <value />
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value />
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value />
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value />
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value />
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value />
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value />
+    </option>
+    <option name="DEFAULT_METADATA">
+      <value />
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value />
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value />
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value />
+    </option>
+    <option name="DEFAULT_STRING">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value />
+    </option>
+    <option name="DELETED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="e83131" />
+        <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8181ea" />
+        <option name="BACKGROUND" value="e9e9e9" />
+        <option name="EFFECT_COLOR" value="ea" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GROOVY_KEYWORD">
+      <value />
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8aea" />
+        <option name="EFFECT_COLOR" value="1a1aea" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="e3ffea" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffccea" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffffaa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="List/map to object conversion">
+      <value />
+    </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="c45959" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="414141" />
+      </value>
+    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="Static property reference ID">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffea" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="f6ebac" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc7ae" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
